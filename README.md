@@ -4,8 +4,6 @@
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&layout=compact&theme=dark)
-<br>
 ![GONGRYONGWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONGRYONGWANG&show_icons=true&theme=dark)
 <!--
 **GONGRYONGWANG/GONGRYONGWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
