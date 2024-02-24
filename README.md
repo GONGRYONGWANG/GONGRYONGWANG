@@ -1,9 +1,3 @@
-## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
-    <a href=".com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div><br>
 📫 dinojaemin@snu.ac.kr
 <br>
 [![CodeForces Profile](https://cf.leed.at?id=gongryongwang)](https://codeforces.com/profile/gongryongwang)
