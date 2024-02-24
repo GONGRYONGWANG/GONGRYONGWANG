@@ -1,5 +1,4 @@
 📫 dinojaemin@snu.ac.kr
-
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
 <br>
