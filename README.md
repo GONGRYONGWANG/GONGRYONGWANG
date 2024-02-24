@@ -1,3 +1,4 @@
+📫 dinojaemin@snu.ac.kr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
 <br>
