@@ -1,3 +1,4 @@
+<div align="center"> 
 📫 dinojaemin@snu.ac.kr
 <br>
 [![CodeForces Profile](https://cf.leed.at?id=gongryongwang)](https://codeforces.com/profile/gongryongwang)
@@ -5,8 +6,7 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
 <br>
 ![GONGRYONGWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONGRYONGWANG&show_icons=true&theme=dark)
-
-
+</div>
 <!--
 **GONGRYONGWANG/GONGRYONGWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
