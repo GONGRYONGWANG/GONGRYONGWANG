@@ -1,5 +1,4 @@
 📫 dinojaemin@snu.ac.kr
-<div align="center"> 
 <br>
 [![CodeForces Profile](https://cf.leed.at?id=gongryongwang)](https://codeforces.com/profile/gongryongwang)
 <br>
