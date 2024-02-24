@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GONGRYONGWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONGRONGWANG&show_icons=true&theme=dark)
+![GONGRYONGWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONGRYONGWANG&show_icons=true&theme=dark)
 
 <!--
 **GONGRYONGWANG/GONGRYONGWANG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
