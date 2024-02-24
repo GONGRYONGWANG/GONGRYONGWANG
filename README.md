@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
 <br>
@@ -24,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
