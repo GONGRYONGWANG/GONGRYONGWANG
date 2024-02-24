@@ -1,7 +1,10 @@
 ### Hi there 👋
 ![GONGRYONGWANG's GitHub stats](https://github-readme-stats.vercel.app/api?username=GONGRYONGWANG&show_icons=true&theme=dark)
+<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
+<br>
 [![CodeForces Profile](https://cf.leed.at?id=gongryongwang)](https://codeforces.com/profile/gongryongwang)
 
 <!--
