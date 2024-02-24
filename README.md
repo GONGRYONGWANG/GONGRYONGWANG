@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
+**![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GONGRYONGWANG&theme=dark)
 <br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
 <br>
