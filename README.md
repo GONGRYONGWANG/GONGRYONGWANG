@@ -1,6 +1,4 @@
-<div>
-  <!--Body-->
-  📫 dinojaemin@snu.ac.kr
+📫 dinojaemin@snu.ac.kr
 <br>
 🏆 LGCPC 2024 장려상
 <br>
@@ -25,5 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
 
