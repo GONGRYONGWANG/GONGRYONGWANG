@@ -1,9 +1,9 @@
 #### 📫 dinojaemin@snu.ac.kr
-<br>
+<br/>
 #### 🏆 LGCPC 2024 장려상
-<br>
+<br/>
 #### 🏆 KAUPC 2024 일반부 우수상 
-<br>
+<br/>
 [![CodeForces Profile](https://cf.leed.at?id=gongryongwang)](https://codeforces.com/profile/gongryongwang)
 <br>
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dinojaemin)](https://solved.ac/dinojaemin)
