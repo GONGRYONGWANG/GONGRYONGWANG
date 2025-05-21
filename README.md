@@ -1,5 +1,7 @@
 📫 dinojaemin@snu.ac.kr
 <br>
+🏆 2025 SCSC Div.2 #1
+<br>
 🏆 LGCPC 2024 장려상
 <br>
 🏆 KAUPC 2024 일반부 우수상 
